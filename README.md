@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tsudonymn
 - 👀 I’m interested in Python, Kotlin, OpenAPI, Kubernetes, ML/AI, SBCs
-- 🌱 I’m currently learning Elm, Yacht, Kubernetes
+- 🌱 I’m currently learning BeautifulSoup, ESP32/8266, ML, Kubernetes
 - 💞️ I’m looking to collaborate on almost anything though time is finite ;)
 - 📫 How to reach me https://tsudonymn.github.io
 
